@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋, I'm Waxeo !</h1>
 
-###
 <h3 align="center">42 Paris student, I specialized in Full-Stack development</h3>
+
+</br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -39,12 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
+</br>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Waxeo/Waxeo/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Waxeo/Waxeo/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Waxeo/Waxeo/output/pacman-contribution-graph.svg">
 </picture>
-
-###
